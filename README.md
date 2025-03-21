@@ -81,7 +81,7 @@ Our system leverages AI to:
 
 ### 6.2 Backend
 - Clone the repo
-  - https://github.com/linmengl28/Hackathon-HelloWorld-Teamwork-Compatibility-Checker.git
+  - https://github.com/Di-123-Di/Teamwork-Compatibility-Checker.git
 
 - Navigate to the `backend/` directory 
   - cd backend
